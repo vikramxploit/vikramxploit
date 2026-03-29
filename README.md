@@ -15,7 +15,8 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
+   
+  <img src="[https://skillicons.dev/icons?i=linux,kali,bash,python,windows](https://skillicons.dev/icons?i=linux,kali,windows,ubuntu,apple,aws,azure,python,bash,github,wordpress,)" />
 </p>
 
 ---
