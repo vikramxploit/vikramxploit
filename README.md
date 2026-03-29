@@ -39,9 +39,6 @@
 ## 📺 YouTube
 
 👉 Vikramxploit (Cybersecurity Tutorials & Walkthroughs)
-
-## 📺 YouTube Channel
-
 <p align="center">
   <a href="https://www.youtube.com/@vikram_Xploit">
     <img src="https://img.shields.io/badge/YouTube-Vikramxploit-red?style=for-the-badge&logo=youtube" />
